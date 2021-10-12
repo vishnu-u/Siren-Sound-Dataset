@@ -6,7 +6,7 @@ This dataset was completely made manually by extracting audio from sources avail
 ### Content
 
 The dataset consists of wav-format audio files which are of length 3-seconds. They contain the siren sound of Emergency Vehicles - Ambulance and Firetruck. A third category named Traffic also exists where it contains 3-second .wav format audio files of plain traffic sound. Each category contains 200 sound files, 200 Spectrogram images for each audio file and a python script for converting each audio file to its spectrogram.
-#sounds <br>
+<br>
 <p>|_____ambulance <br>
 |_______________200 <i>.wav</i> format siren audio files <br> 
 |_______________200 <i>.png</i> format spectorgram images for each audio file <br>
